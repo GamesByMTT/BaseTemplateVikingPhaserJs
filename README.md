@@ -1,1 +1,1 @@
-# BaseTemplateVikingPhaserJs
+# phaserSlotTemplate
